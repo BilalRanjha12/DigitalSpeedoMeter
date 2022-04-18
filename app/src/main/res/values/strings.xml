@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="you_are_overspeeding_slow_down">You Are Overspeeding, Slow Down!</string>
+    <string name="allow_speedometer_to_access_gps">Allow Speedometer to access GPS</string>
+    <string name="set_speed_limit">Set Speed Limit</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="Can_not_start_rec">Cannot Start Recording Because Access To GPS Was Denied. Click Here To Give Access</string>
+</resources>
