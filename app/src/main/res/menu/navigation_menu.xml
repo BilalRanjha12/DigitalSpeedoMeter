@@ -3,16 +3,20 @@
         xmlns:tools="http://schemas.android.com/tools"
         tools:ignore="HardcodedText">
         <item
-            android:id="@+id/nav_account"
+            android:id="@+id/nav_history"
             android:title="History"
+            android:icon="@drawable/history_icon"
+
             />
 
         <item
             android:id="@+id/nav_settings"
-            android:title="Settings" />
+            android:title="Settings"
+            android:icon="@drawable/settings_icon"/>
 
         <item
             android:id="@+id/nav_logout"
-            android:title="Rate Us" />
+            android:title="Rate Us"
+            android:icon="@drawable/rate_us_icon"/>
 
     </menu>

@@ -3,14 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/back_icon.xml" value="0.169" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/background_gradient.xml" value="0.1645" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/btn_blue_round_corner.xml" value="0.1645" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/btn_round_corner.xml" value="0.1645" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/history_icon.xml" value="0.1885" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/ic_vector__2_.xml" value="0.1645" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/rectangle_17.xml" value="0.1265" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/drawable/share_icon.xml" value="0.1655" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/activity_history_rv.xml" value="0.2" />
-        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/activity_home_screen.xml" value="0.2" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/activity_home_screen.xml" value="0.264" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/allow_location_access_dialog_box.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/dialog.xml" value="0.25416666666666665" />
@@ -21,9 +23,12 @@
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/dialog_box_set_speed_limit.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/dialog_box_speed_alert.xml" value="0.25025641025641027" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/empty_history_layout.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/history_rv_design.xml" value="0.4" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/history_rv_design.xml" value="0.176" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/set_speed_limit.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/set_speed_unit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/setting_layout.xml" value="0.264" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/setting_screen.xml" value="0.536" />
+        <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/layout/setting_screen_layout.xml" value="0.264" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/menu/navigation_menu.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/nexgen/AndroidStudioProjects/DigitalSpeedoMeter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.119" />
       </map>

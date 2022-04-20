@@ -223,14 +223,59 @@
                 android:text="Start"
                 android:textColor="@color/Gray_6"
                 android:textSize="18sp" />
+        </RelativeLayout>
 
+        <RelativeLayout
+            android:id="@+id/btn_get_history"
+            android:layout_width="85dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="396dp"
+            android:background="@drawable/start"
+            android:text="Get Started"
+            android:textColor="@color/Gray_6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.133"
+            app:layout_constraintStart_toStartOf="parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="sans-serif-black"
+                android:text="History"
+                android:textColor="@color/Gray_6"
+                android:textSize="18sp" />
+        </RelativeLayout>
 
+        <RelativeLayout
+            android:id="@+id/btn_rate_us"
+            android:layout_width="85dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="392dp"
+            android:background="@drawable/start"
+            android:text="Get Started"
+            android:textColor="@color/Gray_6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.917"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="sans-serif-black"
+                android:text="Rate Us"
+                android:textColor="@color/Gray_6"
+                android:textSize="18sp" />
         </RelativeLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
+       android:background="@color/Blue"
+        app:itemTextColor="@color/white"
         app:menu="@menu/navigation_menu" />
 
 </androidx.drawerlayout.widget.DrawerLayout>

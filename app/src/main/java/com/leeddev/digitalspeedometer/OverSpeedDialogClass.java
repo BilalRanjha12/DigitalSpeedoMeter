@@ -14,15 +14,11 @@ import androidx.annotation.NonNull;
 public class OverSpeedDialogClass{
 
 
-    public void showDialog(Activity activity, String msg){
+    public void showDialog(Activity activity){
         final Dialog dialog = new Dialog(activity);
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.dialog_box_speed_alert);
-
-        TextView text = (TextView) dialog.findViewById(R.id.tv_text);
-        text.setText(msg);
-
      TextView dialogButton = (TextView) dialog.findViewById(R.id.btn_cancel);
         dialogButton.setOnClickListener(new View.OnClickListener() {
             @Override
